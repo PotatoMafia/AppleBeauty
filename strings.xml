@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Apple Beauty</string>
+
+    <string name="CenterText">There are some Ideas for you</string>
+    <string name="TextUnderCenter">Happy Birthday</string>
+    <string name="round_eye">Для круглых глаз.</string>
+    <string name="round_eye_inf">Для круглых глаз, акцентируйте внешнюю часть века, а если глаза не очень большие,
+        растушевку лучше делать по диагонали.
+    </string>
+    <string name="common_inf">Зоны глаза.</string>
+    <string name="common_inf_is">1 – внутренний уголок глаза, 3 – внешний, 2 – подбровное пространство</string>
+    <string name="upset_eye">Для поднятия опущенного уголка:</string>
+    <string name="upset_eye_inf">Тушуйте тени в диагональном направлении в сторону виска – таким образом вы визуально
+        приподнимите уголок глаза.
+        Не затемняйте нижнее веко только с внешней стороны глаза: либо оставьте его не прокрашенным, либо подчеркните
+        полностью.
+    </string>
+
+    <string name="nums_of_shadows">Подаренные тени пронумерованы в следующем порядке</string>
+
+    <string name="everyday_makeUp">Тени для повседневного макияжа:</string>
+    <string name="everyday_makeUp_part1">Матовыми тенями оттенка чуть темнее кожи затемните внешний уголок глаза, ими же
+        пройдитесь по орбитальной линии.(3 цвет из палетки)
+    </string>
+    <string name="info1">Орбитальная линия - часть между подбровным пространством и веками</string>
+
+    <string name="everyday_makeUp_part2">Светлыми матовыми или сияющими тенями заполните все подвижное веко.
+        (Цвет 1 или 2)
+    </string>
+
+
+    <string name="everyday_makeUp_part3">Заполните черным карандашом «пробелы» между ресницами на верхнем веке, а затем
+        нанесите тушь для ресниц.
+    </string>
+
+    <string name="evening_makeUp">Тени для вечернего макияжа:</string>
+    <string name="evening_makeUp_part1">Тени номер 3 нанесите на всю область глаза(включая нижнее веко) и растушуйте
+    </string>
+    <string name="evening_makeUp_part2">Углубите верхнюю складку при помощи цвета 4, 5 или 6</string>
+    <string name="evening_makeUp_part22">В зависимости от настроения можно добавить тени 7, 8, 9
+    </string>
+    <string name="evening_makeUp_part3">Уголок осветлите тенью номер 2 или 1</string>
+    <string name="evening_makeUp_part4">Нижнее веко можно подчеркнуть светлыми тенями для увеличения глаза</string>
+    <string name="happyBInfo">С днем рождения, дорогая Мама! Желаю всего самого наилучшего. Пусть этот день принесет тебе улыбки и счастье, какие ты заслуживаешь. Я тебя люблю!
+
+        С любовью, Настя</string>
+
+</resources>
